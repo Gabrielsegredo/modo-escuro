@@ -1,2 +1,1 @@
-# modo-escuro
-add creat respositorio
+# modoescuro
